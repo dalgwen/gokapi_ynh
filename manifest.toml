@@ -38,8 +38,6 @@ ram.runtime = "50M"
 
 [resources]
 
-    [resources.sources]
-
     [resources.sources.main]
     in_subdir = false
     extract = true
