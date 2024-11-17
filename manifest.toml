@@ -1,0 +1,61 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
+packaging_format = 2
+
+id = "gokapi"
+name = "Gokapi"
+description.en = "Lightweight server to share files"
+description.fr = "Serveur léger pour partager des fichiers"
+
+version = "1.9.2~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "AGPL-3.0"
+admindoc = "https://gokapi.readthedocs.io/"
+code = "https://github.com/Forceu/Gokapi"
+
+[integration]
+yunohost = ">= 11.2.30"
+helpers_version = "2.1"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+
+[resources]
+
+    [resources.sources]
+
+    [resources.sources.main]
+    url = "https://github.com/Forceu/Gokapi/releases/download/v1.9.2/gokapi-linux_amd64.zip"
+    sha256 = "bc79d7548ba6d1230e0038898210941c05ce87ea7b1704b812daefa6278175a2"
+    rename = "gokapi"
+
+    autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.data_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.ports]
+    main.default = 53842
