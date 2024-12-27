@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # Gokapi para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/gokapi.svg)](https://ci-apps.yunohost.org/ci/apps/gokapi/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/gokapi.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/gokapi.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/gokapi)](https://ci-apps.yunohost.org/ci/apps/gokapi/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/gokapi)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/gokapi)
 
 [![Instalar Gokapi con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gokapi)
 
@@ -18,7 +20,7 @@ NON debe editarse manualmente.
 
 Gokapi is a lightweight server to share files, which expire after a set amount of downloads or days. It is similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files.
 
-**Versión proporcionada:** 1.9.2~ynh1
+**Versión proporcionada:** 1.9.6~ynh1
 
 ## Capturas de pantalla
 
