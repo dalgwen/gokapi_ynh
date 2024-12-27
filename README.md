@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Gokapi for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/gokapi.svg)](https://ci-apps.yunohost.org/ci/apps/gokapi/) ![Working status](https://ci-apps.yunohost.org/ci/badges/gokapi.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/gokapi.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/gokapi)](https://ci-apps.yunohost.org/ci/apps/gokapi/)
+![Working status](https://apps.yunohost.org/badge/state/gokapi)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/gokapi)
 
 [![Install Gokapi with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gokapi)
 

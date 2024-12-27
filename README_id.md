@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Gokapi untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/gokapi.svg)](https://ci-apps.yunohost.org/ci/apps/gokapi/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/gokapi.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/gokapi.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/gokapi)](https://ci-apps.yunohost.org/ci/apps/gokapi/)
+![Status kerja](https://apps.yunohost.org/badge/state/gokapi)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/gokapi)
 
 [![Pasang Gokapi dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gokapi)
 

@@ -5,7 +5,9 @@
 
 # Gokapi для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/gokapi.svg)](https://ci-apps.yunohost.org/ci/apps/gokapi/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/gokapi.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/gokapi.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/gokapi)](https://ci-apps.yunohost.org/ci/apps/gokapi/)
+![Состояние работы](https://apps.yunohost.org/badge/state/gokapi)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/gokapi)
 
 [![Установите Gokapi с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gokapi)
 

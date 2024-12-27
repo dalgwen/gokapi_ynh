@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Gokapi YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/gokapi.svg)](https://ci-apps.yunohost.org/ci/apps/gokapi/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/gokapi.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/gokapi.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/gokapi)](https://ci-apps.yunohost.org/ci/apps/gokapi/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/gokapi)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/gokapi)
 
 [![Instalatu Gokapi YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gokapi)
 
