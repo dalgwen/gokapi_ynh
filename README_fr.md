@@ -20,7 +20,7 @@ Il NE doit PAS être modifié à la main.
 
 Gokapi est un serveur léger de partage de fichiers, qui expire après un certain nombre de téléchargements ou de jours. Il est similaire à Firefox Send, à la différence que seul l'administrateur est autorisé à télécharger des fichiers.
 
-**Version incluse :** 1.9.6~ynh1
+**Version incluse :** 1.9.6~ynh2
 
 ## Captures d’écran
 
