@@ -7,7 +7,7 @@ name = "Gokapi"
 description.en = "Lightweight server to share files"
 description.fr = "Serveur léger pour partager des fichiers"
 
-version = "1.9.6~ynh1"
+version = "1.9.6~ynh2"
 
 maintainers = ["eric_G"]
 
