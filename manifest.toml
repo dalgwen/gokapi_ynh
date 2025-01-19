@@ -21,7 +21,9 @@ yunohost = ">= 11.2.30"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
+
 ldap = false
+
 sso = false
 
 disk = "50M"
@@ -35,6 +37,12 @@ ram.runtime = "50M"
     [install.init_main_permission]
     type = "group"
     default = "visitors"
+
+    [install.admin]
+    type = "user"
+
+    [install.password]
+    type = "password"
 
 [resources]
 
@@ -66,4 +74,3 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.ports]
-    main.default = 53842
