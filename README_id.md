@@ -20,7 +20,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 Gokapi is a lightweight server to share files, which expire after a set amount of downloads or days. It is similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files.
 
-**Versi terkirim:** 1.9.6~ynh1
+**Versi terkirim:** 1.9.6~ynh2
 
 ## Tangkapan Layar
 
