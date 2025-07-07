@@ -7,7 +7,7 @@ name = "Gokapi"
 description.en = "Lightweight server to share files"
 description.fr = "Serveur léger pour partager des fichiers"
 
-version = "1.9.6~ynh3"
+version = "2.0.1~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -53,8 +53,8 @@ ram.runtime = "50M"
     i386.sha256 = "7e119e384758198fa8af36273ac0f4860d2df636e41ef38f820481a8055e0afe"
     armhf.url = "https://github.com/Forceu/Gokapi/releases/download/v1.9.6/gokapi-linux_arm.zip"
     armhf.sha256 = "480e5c15061b3b48b8a2d72eb6364fb7483bfbca132dc3a247abb7b470ed4f9b"
-    arm64.url = "https://github.com/Forceu/Gokapi/releases/download/v1.9.6/gokapi-linux_arm64.zip"
-    arm64.sha256 = "64fdc11af7acd4a7a1855cd1ef0cde9a3eb8b48221ac2526e2910063f191342e"
+    arm64.url = "https://github.com/Forceu/Gokapi/releases/download/v2.0.1/gokapi-linux_arm64.zip"
+    arm64.sha256 = "afbd7dea146259fdb5258bcd85d8b96b5e80471f26c2aea6ea88d9c0254f1115"
 
     in_subdir = false
 
